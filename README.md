@@ -1,7 +1,7 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 
 # Movies
-- This is an App to search for movies and read some content about each
+- This is an App to search for movies and read some content about them.
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
